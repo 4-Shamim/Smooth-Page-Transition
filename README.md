@@ -1,6 +1,6 @@
-# Smooth Page Transition With HighwayJs, Gsap
+# Smooth Page Transition With HighwayJs, Gsap (Learn from YT Chanel => Dev Ed)
 
-##Need to install parcel and and config script
+## Need to install parcel and and config script
 
 1. npm i parcel-bundle  (install parcel bundle)
 
